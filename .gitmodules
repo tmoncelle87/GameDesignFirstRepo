@@ -1,0 +1,3 @@
+[submodule "Plugins/Libraries"]
+	path = Plugins/Libraries
+	url = https://github.com/isaacbustad/BugFreeProductionsLibrary
