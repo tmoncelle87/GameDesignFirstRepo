@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1da5f05803a7ba8488e96ff73065e0ac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 363516
+  packageName: Egg Heads - Lite
+  packageVersion: 1.0
+  assetPath: Assets/com.pyroduck.eggheadslite/Runtime/Data/VisualGroups/EyebrowsVisuals.asset
+  uploadId: 929662

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 941b0c6575b5549478f64d1b087c1beb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 363516
+  packageName: Egg Heads - Lite
+  packageVersion: 1.0
+  assetPath: Assets/com.pyroduck.eggheadslite/Platformer/Prefabs/UI/HPBarCanvas.prefab
+  uploadId: 929662

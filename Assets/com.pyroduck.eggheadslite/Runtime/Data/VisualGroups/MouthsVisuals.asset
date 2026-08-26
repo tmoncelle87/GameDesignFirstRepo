@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2105c67117bf439e99b32b3a31701e5e, type: 3}
+  m_Name: MouthsVisuals
+  m_EditorClassIdentifier: com.pyroduck.eggheadslite.Runtime::com.pyroduck.eggheadslite.Runtime.Scripts.Data.VisualGroupsDataSO
+  Name: Mouths
+  IsSubGroup: 0
+  VisualList:
+  - {fileID: 11400000, guid: 85b0e62d5ce7ae74189adbcedd1faaa8, type: 2}
+  - {fileID: 11400000, guid: ca8a4f202fb2863468e8ae96336ec230, type: 2}
+  - {fileID: 11400000, guid: 66fcae9207f146d479664c18144c8221, type: 2}
+  VisualType: 1

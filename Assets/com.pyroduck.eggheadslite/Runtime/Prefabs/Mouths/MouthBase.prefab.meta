@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3807d3c2cd479ff45b65d8f9745121d7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 363516
+  packageName: Egg Heads - Lite
+  packageVersion: 1.0
+  assetPath: Assets/com.pyroduck.eggheadslite/Runtime/Prefabs/Mouths/MouthBase.prefab
+  uploadId: 929662

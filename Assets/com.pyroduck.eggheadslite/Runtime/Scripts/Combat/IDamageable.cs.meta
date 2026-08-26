@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b70c9dd3ca9fbb84286d802791b66825
+AssetOrigin:
+  serializedVersion: 1
+  productId: 363516
+  packageName: Egg Heads - Lite
+  packageVersion: 1.0
+  assetPath: Assets/com.pyroduck.eggheadslite/Runtime/Scripts/Combat/IDamageable.cs
+  uploadId: 929662

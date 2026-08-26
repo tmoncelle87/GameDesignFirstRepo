@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 297d971baca85c54bbb5725f3a562dca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 363516
+  packageName: Egg Heads - Lite
+  packageVersion: 1.0
+  assetPath: Assets/com.pyroduck.eggheadslite/Runtime/Prefabs/Particles/Muzzle.prefab
+  uploadId: 929662

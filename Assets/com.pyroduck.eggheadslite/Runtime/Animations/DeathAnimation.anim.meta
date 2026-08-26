@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cabbb405929d02f46a269b78750a4431
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 363516
+  packageName: Egg Heads - Lite
+  packageVersion: 1.0
+  assetPath: Assets/com.pyroduck.eggheadslite/Runtime/Animations/DeathAnimation.anim
+  uploadId: 929662

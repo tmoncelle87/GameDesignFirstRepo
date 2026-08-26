@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d4eaef69889a420c9332aa169908dfd2
+timeCreated: 1774977893
+AssetOrigin:
+  serializedVersion: 1
+  productId: 363516
+  packageName: Egg Heads - Lite
+  packageVersion: 1.0
+  assetPath: Assets/com.pyroduck.eggheadslite/Runtime/Scripts/InputSystem/NewInputProvider.cs
+  uploadId: 929662

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db3d66508c1b10b4e957a0b962491835
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 363516
+  packageName: Egg Heads - Lite
+  packageVersion: 1.0
+  assetPath: Assets/com.pyroduck.eggheadslite/Runtime/Prefabs/HairAndHelmets/HatOrHairBase.prefab
+  uploadId: 929662

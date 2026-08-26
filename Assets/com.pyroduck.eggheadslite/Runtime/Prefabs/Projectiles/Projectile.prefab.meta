@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45987d93bbeb1e149a0f99ff8a5709af
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 363516
+  packageName: Egg Heads - Lite
+  packageVersion: 1.0
+  assetPath: Assets/com.pyroduck.eggheadslite/Runtime/Prefabs/Projectiles/Projectile.prefab
+  uploadId: 929662

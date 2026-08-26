@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7252d3254f454b644ad07187eb8c90c6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 363516
+  packageName: Egg Heads - Lite
+  packageVersion: 1.0
+  assetPath: Assets/com.pyroduck.eggheadslite/Runtime/Animations/Idle.anim
+  uploadId: 929662

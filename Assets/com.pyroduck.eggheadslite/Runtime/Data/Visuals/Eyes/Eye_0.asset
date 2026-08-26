@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9593ec4516de9fc4b818153fb7be61d9, type: 3}
+  m_Name: Eye_0
+  m_EditorClassIdentifier: com.pyroduck.eggheadslite.Runtime::com.pyroduck.eggheadslite.Runtime.Scripts.Data.VisualDataSO
+  Name: Eye_0
+  BodyPartPrefab: {fileID: 5259143863789454187, guid: ba1eb228af4251444b5790d9847f628b, type: 3}
+  IconSprite: {fileID: -4153471196519760719, guid: c05e888e27acb0e49abf0f6b0a223c96, type: 3}
+  isColorable: 0
