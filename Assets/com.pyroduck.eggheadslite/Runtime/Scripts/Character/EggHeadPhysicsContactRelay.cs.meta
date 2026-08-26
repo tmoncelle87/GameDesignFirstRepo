@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b6d4f8e2a1c39504758697acbdef0123
+AssetOrigin:
+  serializedVersion: 1
+  productId: 363516
+  packageName: Egg Heads - Lite
+  packageVersion: 1.0
+  assetPath: Assets/com.pyroduck.eggheadslite/Runtime/Scripts/Character/EggHeadPhysicsContactRelay.cs
+  uploadId: 929662

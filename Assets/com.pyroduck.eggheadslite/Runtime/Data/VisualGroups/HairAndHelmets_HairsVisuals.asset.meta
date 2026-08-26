@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9833060e410100e4386779af3047c7d7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 363516
+  packageName: Egg Heads - Lite
+  packageVersion: 1.0
+  assetPath: Assets/com.pyroduck.eggheadslite/Runtime/Data/VisualGroups/HairAndHelmets_HairsVisuals.asset
+  uploadId: 929662

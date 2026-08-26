@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 34663d6b5ebf0844ebaa5ab891ed6065
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 363516
+  packageName: Egg Heads - Lite
+  packageVersion: 1.0
+  assetPath: Assets/com.pyroduck.eggheadslite/Runtime/Data/VisualGroups/WeaponsMeleeVisuals.asset
+  uploadId: 929662

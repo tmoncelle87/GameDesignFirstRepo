@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2105c67117bf439e99b32b3a31701e5e, type: 3}
+  m_Name: HairAndHelmets_HelmetsVisuals
+  m_EditorClassIdentifier: com.pyroduck.eggheadslite.Runtime::com.pyroduck.eggheadslite.Runtime.Scripts.Data.VisualGroupsDataSO
+  Name: Hairs&Helmets/Helmets
+  IsSubGroup: 1
+  VisualList:
+  - {fileID: 11400000, guid: 87a4a74ca1462be4ab4304ae8bc7b19a, type: 2}
+  - {fileID: 11400000, guid: 15aae020cab50914aaeb10255d31c948, type: 2}
+  VisualType: 2
