@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: c4628af5d18129f4d8fe6087b940d4ac
-AssetOrigin:
-  serializedVersion: 1
-  productId: 363516
-  packageName: Egg Heads - Lite
-  packageVersion: 1.0
-  assetPath: Assets/com.pyroduck.eggheadslite/Runtime/Scripts/Audio/ProjectileImpactAudio.cs
-  uploadId: 929662

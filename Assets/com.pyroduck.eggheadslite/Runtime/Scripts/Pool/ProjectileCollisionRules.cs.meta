@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 5cbb247eaba54d55a74b784e49f4d475
-AssetOrigin:
-  serializedVersion: 1
-  productId: 363516
-  packageName: Egg Heads - Lite
-  packageVersion: 1.0
-  assetPath: Assets/com.pyroduck.eggheadslite/Runtime/Scripts/Pool/ProjectileCollisionRules.cs
-  uploadId: 929662

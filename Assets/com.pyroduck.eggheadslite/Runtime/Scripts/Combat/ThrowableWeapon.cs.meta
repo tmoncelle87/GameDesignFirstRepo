@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: ec29f8da30cce9a4aab2c510d0035c50
-AssetOrigin:
-  serializedVersion: 1
-  productId: 363516
-  packageName: Egg Heads - Lite
-  packageVersion: 1.0
-  assetPath: Assets/com.pyroduck.eggheadslite/Runtime/Scripts/Combat/ThrowableWeapon.cs
-  uploadId: 929662

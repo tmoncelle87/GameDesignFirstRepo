@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 3c1d483ab88d38c4f8a733b9110ec37a
-AssetOrigin:
-  serializedVersion: 1
-  productId: 363516
-  packageName: Egg Heads - Lite
-  packageVersion: 1.0
-  assetPath: Assets/com.pyroduck.eggheadslite/Runtime/Scripts/Combat/WeaponPickup.cs
-  uploadId: 929662

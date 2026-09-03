@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: ea54a1aa7ae62458b892c6302b22b8e3
-AssetOrigin:
-  serializedVersion: 1
-  productId: 363516
-  packageName: Egg Heads - Lite
-  packageVersion: 1.0
-  assetPath: Assets/com.pyroduck.eggheadslite/Tests/Editor/CharacterSerializerTests.cs
-  uploadId: 929662
